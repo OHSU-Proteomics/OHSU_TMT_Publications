@@ -31,7 +31,11 @@ List of publications where TMT labeling was used in the OHSU PSR core.
 
 1. [Abdelhamed, S., Butler, J.T., Doron, B., Halse, A., Nemecek, E., Wilmarth, P.A., Marks, D.L., Chang, B.H., Horton, T. and Kurre, P., 2019. Extracellular vesicles impose quiescence on residual hematopoietic stem cells in the leukemic niche. EMBO reports, 20(7), p.e47546.](https://www.embopress.org/doi/full/10.15252/embr.201847546)
 
+1. [Cheung, C.Y., Anderson, D.F. and Brace, R.A., 2019. Multiomics analyses of vesicular transport pathway-specific transcripts and proteins in ovine amnion: responses to altered intramembranous transport. Physiological genomics, 51(7), pp.267-278.](https://journals.physiology.org/doi/full/10.1152/physiolgenomics.00003.2019)
+
 1. [Svensson, K., LaBarge, S.A., Sathe, A., Martins, V.F., Tahvilian, S., Cunliffe, J.M., Sasik, R., Mahata, S.K., Meyer, G.A., Philp, A., David, L.L., Ward, S.R., McCurdy, C.E., Aslan, J.E. and Schenk, S., 2020. p300 and cAMP response element‐binding protein‐binding protein in skeletal muscle homeostasis, contractile function, and survival. Journal of cachexia, sarcopenia and muscle, 11(2), pp.464-477.](https://onlinelibrary.wiley.com/doi/full/10.1002/jcsm.12522)
+
+1. [Cheung, C.Y. and Brace, R.A., 2020. Altered proteomics profile in the amnion of patients with oligohydramnios. Physiological reports, 8(4), p.e14381.](https://physoc.onlinelibrary.wiley.com/doi/full/10.14814/phy2.14381)
 
 ---
 
