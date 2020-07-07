@@ -48,26 +48,25 @@ Some work from other laboratories and institutions using methods/techniques deve
 
 ## Other Institutions:
 
-1. [Contreras-Llano, L.E., Meyer, C., Liu, Y., Sarker, M., Lim, S., Longo, M.L. and Tan, C., 2020. Holistic engineering of cell-free systems through proteome-reprogramming synthetic circuits. Nature communications, 11(1), pp.1-10.](https://www.nature.com/articles/s41467-020-16900-7)
-  - Uses PAW pipeline and IRS; SPS-MS3 Fusion Lumos; E. coli engineering
-1. [Min, C.W., Park, J., Bae, J.W., Agrawal, G.K., Rakwal, R., Kim, Y., Yang, P., Kim, S.T. and Gupta, R., 2020. In-Depth Investigation of Low-Abundance Proteins in Matured and Filling Stages Seeds of Glycine max Employing a Combination of Protamine Sulfate Precipitation and TMT-Based Quantitative Proteomic Analysis. Cells, 9(6), p.1517.](https://www.mdpi.com/2073-4409/9/6/1517)
-  - MaxQuant and IRS; MS2 Q Exactive; Soybean seed Proteomics
-1. [Amin, B. and Robinson, R.A., 2020. Dataset of quantitative proteomic analysis to understand aging processes in rabbit liver. Data in Brief, p.105701.](https://www.sciencedirect.com/science/article/pii/S2352340920305953)
-  - Proteome Discoverer and IRS; SPS-MS3 Fusion Lumos; Aging changes in rabbit liver
-1. [Amin, B., Ford, K.I. and Robinson, R.A., 2020. Quantitative proteomics to study aging in rabbit liver. Mechanisms of Ageing and Development, p.111227.](https://www.sciencedirect.com/science/article/abs/pii/S0047637420300221)
-  - Proteome Discoverer and IRS; SPS-MS3 Fusion Lumos; Aging changes in rabbit liver
-1. [Bojkova, D., Klann, K., Koch, B. et al. Proteomics of SARS-CoV-2-infected host cells reveals therapy targets. Nature (2020). https://doi.org/10.1038/s41586-020-2332-7](https://www.nature.com/articles/s41586-020-2332-7)
-  - Proteome Discoverer/SEQUEST and IRS; MS2 Q Exactive HF; SARS-CoV-2 infected human cells
-1. [Espino, J.A., King, C.D., Jones, L.M. and Robinson, R.A., 2020. In Vivo Fast Photochemical Oxidation of Proteins Using Enhanced Multiplexing Proteomics. Analytical Chemistry.](https://pubs.acs.org/doi/full/10.1021/acs.analchem.0c00174)
-  - Proteome Discoverer; SPS-MS3 Fusion Lumos; Photochemical oxidative footprinting in _C. elegans_.
-1. [Gupta, R., Min, C.W., Kim, S.W., Yoo, J.S., Moon, A.R., Shin, A.Y., Kwon, S.Y. and Kim, S.T., 2020. A TMT-Based Quantitative Proteome Analysis to Elucidate the TSWV Induced Signaling Cascade in Susceptible and Resistant Cultivars of Solanum lycopersicum. Plants, 9(3), p.290.](https://www.mdpi.com/2223-7747/9/3/290)
-  - MaxQuant and IRS; MS2 Q Exactive; tomato leaf after TSWV treatment
-1. [Afshin, B., Kaushik, C., Homer, F., Hossein, F., Valery, B., Lai, P.S.H., Saravia-Butler, A.M., Hardiman, G., Taylor, D., Galazka, J.M. and Costes, S.V., 2019. Multi-omics analysis of multiple missions to space reveal a theme of lipid dysregulation in mouse liver. Scientific Reports (Nature Publisher Group), 9(1).](https://www.nature.com/articles/s41598-019-55869-2)
-  - MaxQuant and IRS; ; mouse livers
-1. [Van de Walle, P., Geens, E., Baggerman, G., José Naranjo-Galindo, F., Askjaer, P., Schoofs, L. and Temmerman, L., 2019. CEH-60/PBX regulates vitellogenesis and cuticle permeability through intestinal interaction with UNC-62/MEIS in Caenorhabditis elegans. PLoS biology, 17(11), p.e3000499.]()
-  - MaxQuant and IRS; CID/HCD Orbitrap Elite; _C. elegans_ egg development
-1. [Wu, M., McCain, J.S.P., Rowland, E., Middag, R., Sandgren, M., Allen, A.E. and Bertrand, E.M., 2019. Manganese and iron deficiency in Southern Ocean Phaeocystis antarctica populations revealed through taxon-specific protein indicators. Nature communications, 10(1), pp.1-10.](https://www.nature.com/articles/s41467-019-11426-z)
-  - Proteome Discoverer/SEQUEST and IRS; MS2 Orbitrap Velos Pro; Prymnesiophyceae (algae) mineral deficiencies
+1. [Contreras-Llano, L.E., Meyer, C., Liu, Y., Sarker, M., Lim, S., Longo, M.L. and Tan, C., 2020. Holistic engineering of cell-free systems through proteome-reprogramming synthetic circuits. Nature communications, 11(1), pp.1-10.](https://www.nature.com/articles/s41467-020-16900-7) - Uses PAW pipeline and IRS; SPS-MS3 Fusion Lumos; E. coli engineering
+
+1. [Min, C.W., Park, J., Bae, J.W., Agrawal, G.K., Rakwal, R., Kim, Y., Yang, P., Kim, S.T. and Gupta, R., 2020. In-Depth Investigation of Low-Abundance Proteins in Matured and Filling Stages Seeds of Glycine max Employing a Combination of Protamine Sulfate Precipitation and TMT-Based Quantitative Proteomic Analysis. Cells, 9(6), p.1517.](https://www.mdpi.com/2073-4409/9/6/1517) - MaxQuant and IRS; MS2 Q Exactive; Soybean seed Proteomics
+
+1. [Amin, B. and Robinson, R.A., 2020. Dataset of quantitative proteomic analysis to understand aging processes in rabbit liver. Data in Brief, p.105701.](https://www.sciencedirect.com/science/article/pii/S2352340920305953) - Proteome Discoverer and IRS; SPS-MS3 Fusion Lumos; Aging changes in rabbit liver
+
+1. [Amin, B., Ford, K.I. and Robinson, R.A., 2020. Quantitative proteomics to study aging in rabbit liver. Mechanisms of Ageing and Development, p.111227.](https://www.sciencedirect.com/science/article/abs/pii/S0047637420300221) - Proteome Discoverer and IRS; SPS-MS3 Fusion Lumos; Aging changes in rabbit liver
+
+1. [Bojkova, D., Klann, K., Koch, B. et al. Proteomics of SARS-CoV-2-infected host cells reveals therapy targets. Nature (2020). https://doi.org/10.1038/s41586-020-2332-7](https://www.nature.com/articles/s41586-020-2332-7) - Proteome Discoverer/SEQUEST and IRS; MS2 Q Exactive HF; SARS-CoV-2 infected human cells
+
+1. [Espino, J.A., King, C.D., Jones, L.M. and Robinson, R.A., 2020. In Vivo Fast Photochemical Oxidation of Proteins Using Enhanced Multiplexing Proteomics. Analytical Chemistry.](https://pubs.acs.org/doi/full/10.1021/acs.analchem.0c00174) - Proteome Discoverer; SPS-MS3 Fusion Lumos; Photochemical oxidative footprinting in _C. elegans_.
+
+1. [Gupta, R., Min, C.W., Kim, S.W., Yoo, J.S., Moon, A.R., Shin, A.Y., Kwon, S.Y. and Kim, S.T., 2020. A TMT-Based Quantitative Proteome Analysis to Elucidate the TSWV Induced Signaling Cascade in Susceptible and Resistant Cultivars of Solanum lycopersicum. Plants, 9(3), p.290.](https://www.mdpi.com/2223-7747/9/3/290) - MaxQuant and IRS; MS2 Q Exactive; tomato leaf after TSWV treatment
+
+1. [Afshin, B., Kaushik, C., Homer, F., Hossein, F., Valery, B., Lai, P.S.H., Saravia-Butler, A.M., Hardiman, G., Taylor, D., Galazka, J.M. and Costes, S.V., 2019. Multi-omics analysis of multiple missions to space reveal a theme of lipid dysregulation in mouse liver. Scientific Reports (Nature Publisher Group), 9(1).](https://www.nature.com/articles/s41598-019-55869-2) - MaxQuant and IRS; ; mouse livers
+
+1. [Van de Walle, P., Geens, E., Baggerman, G., José Naranjo-Galindo, F., Askjaer, P., Schoofs, L. and Temmerman, L., 2019. CEH-60/PBX regulates vitellogenesis and cuticle permeability through intestinal interaction with UNC-62/MEIS in Caenorhabditis elegans. PLoS biology, 17(11), p.e3000499.]() - MaxQuant and IRS; CID/HCD Orbitrap Elite; _C. elegans_ egg development
+
+1. [Wu, M., McCain, J.S.P., Rowland, E., Middag, R., Sandgren, M., Allen, A.E. and Bertrand, E.M., 2019. Manganese and iron deficiency in Southern Ocean Phaeocystis antarctica populations revealed through taxon-specific protein indicators. Nature communications, 10(1), pp.1-10.](https://www.nature.com/articles/s41467-019-11426-z) - Proteome Discoverer/SEQUEST and IRS; MS2 Orbitrap Velos Pro; Prymnesiophyceae (algae) mineral deficiencies
 
 ---
 
