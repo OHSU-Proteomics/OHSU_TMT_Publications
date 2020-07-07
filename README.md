@@ -50,7 +50,6 @@ Some work from other laboratories and institutions using methods/techniques deve
 
 1. [Contreras-Llano, L.E., Meyer, C., Liu, Y., Sarker, M., Lim, S., Longo, M.L. and Tan, C., 2020. Holistic engineering of cell-free systems through proteome-reprogramming synthetic circuits. Nature communications, 11(1), pp.1-10.](https://www.nature.com/articles/s41467-020-16900-7)
   - Uses PAW pipeline and IRS; SPS-MS3 Fusion Lumos; E. coli engineering
-
 1. [Min, C.W., Park, J., Bae, J.W., Agrawal, G.K., Rakwal, R., Kim, Y., Yang, P., Kim, S.T. and Gupta, R., 2020. In-Depth Investigation of Low-Abundance Proteins in Matured and Filling Stages Seeds of Glycine max Employing a Combination of Protamine Sulfate Precipitation and TMT-Based Quantitative Proteomic Analysis. Cells, 9(6), p.1517.](https://www.mdpi.com/2073-4409/9/6/1517)
   - MaxQuant and IRS; MS2 Q Exactive; Soybean seed Proteomics
 1. [Amin, B. and Robinson, R.A., 2020. Dataset of quantitative proteomic analysis to understand aging processes in rabbit liver. Data in Brief, p.105701.](https://www.sciencedirect.com/science/article/pii/S2352340920305953)
