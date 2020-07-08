@@ -42,6 +42,8 @@ Some work from other laboratories and institutions using methods/techniques deve
 
 1. [Cheung, C.Y. and Brace, R.A., 2020. Altered proteomics profile in the amnion of patients with oligohydramnios. Physiological reports, 8(4), p.e14381.](https://physoc.onlinelibrary.wiley.com/doi/full/10.14814/phy2.14381)
 
+1. [Özgün Babur, Alexander Melrose, Jennifer Cunliffe, John Klimek, Jiaqing Pang, Anna-Liisa Sepp, Jevgenia Zilberman-Rudenko, Samuel Tassi Yunga, Tony Zheng, Iván Parra-Izquierdo, Jessica Minnier, Owen McCarty, Emek Demir, Ashok Reddy, Phillip Wilmarth, Larry L David, Joseph E Aslan; Phosphoproteomic quantitation and causal analysis reveal pathways in GPVI/ITAM-mediated platelet activation programs. Blood blood.2020005496.](https://doi.org/10.1182/blood.2020005496)
+
 1. [Anand, S., Chatterjee, N. and Espinosa-Diez, C., 2020. A miR-494 dependent feedback loop regulates ER stress. BioRxiv.](https://www.biorxiv.org/content/10.1101/2020.05.12.088856v1.abstract)
 
 ---
