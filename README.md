@@ -58,7 +58,7 @@ Some work from other laboratories and institutions using methods/techniques deve
 
 1. [Bojkova, D., Klann, K., Koch, B. et al. Proteomics of SARS-CoV-2-infected host cells reveals therapy targets. Nature (2020). https://doi.org/10.1038/s41586-020-2332-7](https://www.nature.com/articles/s41586-020-2332-7) - Proteome Discoverer/SEQUEST and IRS; MS2 Q Exactive HF; SARS-CoV-2 infected human cells
 
-1. [Espino, J.A., King, C.D., Jones, L.M. and Robinson, R.A., 2020. In Vivo Fast Photochemical Oxidation of Proteins Using Enhanced Multiplexing Proteomics. Analytical Chemistry.](https://pubs.acs.org/doi/full/10.1021/acs.analchem.0c00174) - Proteome Discoverer; SPS-MS3 Fusion Lumos; Photochemical oxidative footprinting in _C. elegans_.
+1. [Espino, J.A., King, C.D., Jones, L.M. and Robinson, R.A., 2020. In Vivo Fast Photochemical Oxidation of Proteins Using Enhanced Multiplexing Proteomics. Analytical Chemistry.](https://pubs.acs.org/doi/full/10.1021/acs.analchem.0c00174) - Proteome Discoverer and IRS; SPS-MS3 Fusion Lumos; Photochemical oxidative footprinting in _C. elegans_.
 
 1. [Gupta, R., Min, C.W., Kim, S.W., Yoo, J.S., Moon, A.R., Shin, A.Y., Kwon, S.Y. and Kim, S.T., 2020. A TMT-Based Quantitative Proteome Analysis to Elucidate the TSWV Induced Signaling Cascade in Susceptible and Resistant Cultivars of Solanum lycopersicum. Plants, 9(3), p.290.](https://www.mdpi.com/2223-7747/9/3/290) - MaxQuant and IRS; MS2 Q Exactive; tomato leaf after TSWV treatment
 
