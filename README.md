@@ -8,7 +8,7 @@ Some work from other laboratories and institutions using methods/techniques deve
 
 ---
 
-## OHSU Work
+## OHSU Work (chronological)
 
 1. [Huan, J., Hornick, N.I., Goloviznina, N.A., Kamimae-Lanning, A.N., David, L.L., Wilmarth, P.A., Mori, T., Chevillet, J.R., Narla, A., Roberts, C.T. and Loriaux, M.M., 2015. Coordinate regulation of residual bone marrow function by paracrine trafficking of AML exosomes. Leukemia, 29(12), pp.2285-2295.](https://www.nature.com/articles/leu2015163)
 
@@ -48,7 +48,9 @@ Some work from other laboratories and institutions using methods/techniques deve
 
 ---
 
-## Other Institutions:
+## Other Institutions (reverse chronological):
+
+1. [Cao, X., Lilla, S., Cao, Z., Pringle, M.A., Oka, O.B., Robinson, P.J., Szmaja, T., Van Lith, M., Zanivan, S. and Bulleid, N.J., 2020. The mammalian cytosolic thioredoxin reductase pathway acts via a membrane protein to reduce ER-localised proteins. Journal of cell science, 133(8).](https://jcs.biologists.org/content/133/8/jcs241976.abstract) - Uses MaxQuant and IRS; MS2 Fusion Lumos; Thioredoxin reductase pathway study
 
 1. [Contreras-Llano, L.E., Meyer, C., Liu, Y., Sarker, M., Lim, S., Longo, M.L. and Tan, C., 2020. Holistic engineering of cell-free systems through proteome-reprogramming synthetic circuits. Nature communications, 11(1), pp.1-10.](https://www.nature.com/articles/s41467-020-16900-7) - Uses PAW pipeline and IRS; SPS-MS3 Fusion Lumos; E. coli engineering
 
