@@ -50,9 +50,35 @@ Some work from other laboratories and institutions using methods/techniques deve
 
 ## Other Institutions (reverse chronological):
 
+1. [Min, C.W., Gupta, R., Truong, N.V., Bae, J.W., Ko, J.M., Lee, B.W. and Kim, S.T., 2020. A TMT-based quantitative proteomic analysis provides insights into the protein changes in the seeds of high-and low-protein content soybean cultivars. Journal of Plant Biotechnology, 47(3), pp.209-217.](https://www.koreascience.or.kr/article/JAKO202029757728386.page)
+
+1. [Cao, X., Lilla, S., Cao, Z., Pringle, M.A., Oka, O.B., Robinson, P.J., Szmaja, T., Van Lith, M., Zanivan, S. and Bulleid, N.J., 2020. The mammalian cytosolic thioredoxin reductase pathway acts via a membrane protein to reduce ER-localised proteins. Journal of cell science, 133(8).](https://journals.biologists.com/jcs/article/133/8/jcs241976/224937/The-mammalian-cytosolic-thioredoxin-reductase)
+
+1. [Khan, M.J., Desaire, H., Lopez, O.L., Kamboh, M.I. and Robinson, R.A., 2021. Dataset of why inclusion matters for Alzheimer's disease biomarker discovery in plasma. Data in brief, 35, p.106923.](https://www-sciencedirect-com.liboff.ohsu.edu/science/article/pii/S2352340921002079?via%3Dihub)
+
+1. [Zaini, P.A., Feinberg, N.G., Grilo, F.S., Saxe, H.J., Salemi, M.R., Phinney, B.S., Crisosto, C.H. and Dandekar, A.M., 2020. Comparative Proteomic Analysis of Walnut (Juglans regia L.) Pellicle Tissues Reveals the Regulation of Nut Quality Attributes. Life, 10(12), p.314.](https://www.mdpi.com/2075-1729/10/12/314/htm)
+
+1. [HD Sagawa, C., de AB Assis, R., Zaini, P.A., Wilmarth, P.A., Phinney, B.S., Moreira, L.M. and Dandekar, A.M., 2020. Proteome Analysis of Walnut Bacterial Blight Disease. International Journal of Molecular Sciences, 21(20), p.7453.](https://www.mdpi.com/1422-0067/21/20/7453/htm)
+
+1. [Doud, E.H., Shetty, T., Abt, M., Mosley, A.L., Corson, T.W., Mehta, A. and Yeh, E.S., 2020. NF-κB Signaling Is Regulated by Fucosylation in Metastatic Breast Cancer Cells. Biomedicines, 8(12), p.600.](https://www.mdpi.com/2227-9059/8/12/600/htm)
+
+1. [López-Janeiro, Á., Ruz-Caracuel, I., Ramón-Patino, J.L., Los Ríos, D., De Los, V., Villalba Esparza, M.V., Berjón, A., Yébenes, L., Hernández, A., Masetto, I. and Kadioglu, E., 2021. Proteomic Analysis of Low-Grade, Early-Stage Endometrial Carcinoma Reveals New Dysregulated Pathways Associated with Cell Death and Cell Signaling. Cancers, 13(4), p.794.](https://www.mdpi.com/2072-6694/13/4/794/htm)
+
+1. [Chen, S.K., Wang, Y.C., Lin, T.Y., Wu, H.J., Huang, C.J. and Ku, W.C., 2021. G-Protein-coupled Estrogen Receptor 1 Agonist G-1 Perturbs Sunitinib Resistance-related Phosphoproteomic Signatures in Renal Cell Carcinoma. Cancer Genomics & Proteomics, 18(3), pp.207-220.](https://cgp.iiarjournals.org/content/18/3/207.full)
+
+1. [Brenes, A.J., Yoshikawa, H., Bensaddek, D., Mirauta, B., Seaton, D., Hukelmann, J.L., Jiang, H., Stegle, O. and Lamond, A.I., 2021. Erosion of human X chromosome inactivation causes major remodeling of the iPSC proteome. Cell Reports, 35(4), p.109032.](https://www.sciencedirect.com/science/article/pii/S2211124721003466)
+
+1. [Apel, F., Andreeva, L., Knackstedt, L.S., Streeck, R., Frese, C.K., Goosmann, C., Hopfner, K.P. and Zychlinsky, A., 2021. The cytosolic DNA sensor cGAS recognizes neutrophil extracellular traps. Science Signaling, 14(673).](https://stke.sciencemag.org/content/14/673/eaax7942.abstract)
+
+1. [Courtland, J.L., Bradshaw, T.W., Waitt, G., Soderblom, E.J., Ho, T., Rajab, A., Vancini, R., Kim, I.H. and Soderling, S.H., 2021. Genetic disruption of WASHC4 drives endo-lysosomal dysfunction and cognitive-movement impairments in mice and humans. Elife, 10, p.e61590.](https://elifesciences.org/articles/61590)
+
+1. [King, C.D. and Robinson, R.A., 2020. Evaluating Combined Precursor Isotopic Labeling and Isobaric Tagging Performance on Orbitraps To Study the Peripheral Proteome of Alzheimer’s Disease. Analytical chemistry, 92(4), pp.2911-2916.](https://pubs.acs.org/doi/abs/10.1021/acs.analchem.9b01974)
+
 1. [Cao, X., Lilla, S., Cao, Z., Pringle, M.A., Oka, O.B., Robinson, P.J., Szmaja, T., Van Lith, M., Zanivan, S. and Bulleid, N.J., 2020. The mammalian cytosolic thioredoxin reductase pathway acts via a membrane protein to reduce ER-localised proteins. Journal of cell science, 133(8).](https://jcs.biologists.org/content/133/8/jcs241976.abstract) - Uses MaxQuant and IRS; MS2 Fusion Lumos; Thioredoxin reductase pathway study
 
 1. [Contreras-Llano, L.E., Meyer, C., Liu, Y., Sarker, M., Lim, S., Longo, M.L. and Tan, C., 2020. Holistic engineering of cell-free systems through proteome-reprogramming synthetic circuits. Nature communications, 11(1), pp.1-10.](https://www.nature.com/articles/s41467-020-16900-7) - Uses PAW pipeline and IRS; SPS-MS3 Fusion Lumos; E. coli engineering
+
+1. [Min, C.W., Hyeon, H., Gupta, R., Park, J., Cheon, Y.E., Lee, G.H., Jang, J.W., Ryu, H.W., Lee, B.W., Park, S.U. and Kim, Y., 2020. Integrated proteomics and metabolomics analysis highlights correlative metabolite-protein networks in soybean seeds subjected to warm-water soaking. Journal of Agricultural and Food Chemistry, 68(30), pp.8057-8067.](https://pubs.acs.org/doi/abs/10.1021/acs.jafc.0c00986)
 
 1. [Min, C.W., Park, J., Bae, J.W., Agrawal, G.K., Rakwal, R., Kim, Y., Yang, P., Kim, S.T. and Gupta, R., 2020. In-Depth Investigation of Low-Abundance Proteins in Matured and Filling Stages Seeds of Glycine max Employing a Combination of Protamine Sulfate Precipitation and TMT-Based Quantitative Proteomic Analysis. Cells, 9(6), p.1517.](https://www.mdpi.com/2073-4409/9/6/1517) - MaxQuant and IRS; MS2 Q Exactive; Soybean seed Proteomics
 
@@ -64,7 +90,13 @@ Some work from other laboratories and institutions using methods/techniques deve
 
 1. [Espino, J.A., King, C.D., Jones, L.M. and Robinson, R.A., 2020. In Vivo Fast Photochemical Oxidation of Proteins Using Enhanced Multiplexing Proteomics. Analytical Chemistry.](https://pubs.acs.org/doi/full/10.1021/acs.analchem.0c00174) - Proteome Discoverer and IRS; SPS-MS3 Fusion Lumos; Photochemical oxidative footprinting in _C. elegans_.
 
+1. [Stepler, K.E., Mahoney, E.R., Kofler, J., Hohman, T.J., Lopez, O.L. and Robinson, R.A., 2020. Inclusion of African American/Black adults in a pilot brain proteomics study of Alzheimer's disease. Neurobiology of disease, 146, p.105129.](https://www.sciencedirect.com/science/article/pii/S0969996120304046) - brain proteomics to study Alzheimer's disease
+
+1. [Schäfer, H., Beckert, B., Frese, C.K., Steinchen, W., Nuss, A.M., Beckstette, M., Hantke, I., Driller, K., Sudzinová, P., Krásný, L. and Kaever, V., 2020. The alarmones (p) ppGpp are part of the heat shock response of Bacillus subtilis. PLoS genetics, 16(3), p.e1008275.](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008275) - bacterial heat stress response
+
 1. [Gupta, R., Min, C.W., Kim, S.W., Yoo, J.S., Moon, A.R., Shin, A.Y., Kwon, S.Y. and Kim, S.T., 2020. A TMT-Based Quantitative Proteome Analysis to Elucidate the TSWV Induced Signaling Cascade in Susceptible and Resistant Cultivars of Solanum lycopersicum. Plants, 9(3), p.290.](https://www.mdpi.com/2223-7747/9/3/290) - MaxQuant and IRS; MS2 Q Exactive; tomato leaf after TSWV treatment
+
+1. [da Silveira, W.A., Fazelinia, H., Rosenthal, S.B., Laiakis, E.C., Kim, M.S., Meydan, C., Kidane, Y., Rathi, K.S., Smith, S.M., Stear, B. and Ying, Y., 2020. Comprehensive Multi-omics Analysis Reveals Mitochondrial Stress as a Central Biological Hub for Spaceflight Impact. Cell, 183(5), pp.1185-1201.](https://www.sciencedirect.com/science/article/abs/pii/S0092867420314616) - Multi-omic NASA GeneLab samples
 
 1. [Afshin, B., Kaushik, C., Homer, F., Hossein, F., Valery, B., Lai, P.S.H., Saravia-Butler, A.M., Hardiman, G., Taylor, D., Galazka, J.M. and Costes, S.V., 2019. Multi-omics analysis of multiple missions to space reveal a theme of lipid dysregulation in mouse liver. Scientific Reports (Nature Publisher Group), 9(1).](https://www.nature.com/articles/s41598-019-55869-2) - MaxQuant and IRS; ; mouse livers
 
