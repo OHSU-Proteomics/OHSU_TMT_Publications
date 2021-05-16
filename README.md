@@ -46,6 +46,8 @@ Some work from other laboratories and institutions using methods/techniques deve
 
 1. [Anand, S., Chatterjee, N. and Espinosa-Diez, C., 2020. A miR-494 dependent feedback loop regulates ER stress. BioRxiv.](https://www.biorxiv.org/content/10.1101/2020.05.12.088856v1.abstract)
 
+1. Leo Han, Daye Park, Ashok Reddy, Phillip A. Wilmarth, and Jeffrey T. Jensen, 2021. Comparing Endocervical Mucus Proteome of Humans and Rhesus Macaques. Proteomics Clinical Applications (accepted).
+
 ---
 
 ## Other Institutions (reverse chronological):
