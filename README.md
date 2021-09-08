@@ -46,7 +46,7 @@ Some work from other laboratories and institutions using methods/techniques deve
 
 1. [Özgün Babur, Alexander Melrose, Jennifer Cunliffe, John Klimek, Jiaqing Pang, Anna-Liisa Sepp, Jevgenia Zilberman-Rudenko, Samuel Tassi Yunga, Tony Zheng, Iván Parra-Izquierdo, Jessica Minnier, Owen McCarty, Emek Demir, Ashok Reddy, Phillip Wilmarth, Larry L David, Joseph E Aslan; Phosphoproteomic quantitation and causal analysis reveal pathways in GPVI/ITAM-mediated platelet activation programs. Blood blood.2020005496.](https://doi.org/10.1182/blood.2020005496)
 
-1. [Chatterjee, N., Fraile-Bethencourt, E., Baris, A., Espinosa-Diez, C. and Anand, S., 2021. MicroRNA-494 regulates Endoplasmic Reticulum stress in endothelial cells. Frontiers in Cell and Developmental Biology, 9.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8311360/)
+1. [Chatterjee, N., Fraile-Bethencourt, E., Baris, A., Espinosa-Diez, C. and Anand, S., 2021. MicroRNA-494 regulates Endoplasmic Reticulum stress in endothelial cells. Frontiers in Cell and Developmental Biology, 9, p.1846.](https://www.frontiersin.org/articles/10.3389/fcell.2021.671461/full)
 
 1. [Han, L., Park, D., Reddy, A., Wilmarth, P.A. and Jensen, J.T., 2021. Comparing endocervical mucus proteome of humans and rhesus macaques. PROTEOMICS–Clinical Applications, p.2100023.](https://onlinelibrary.wiley.com/doi/abs/10.1002/prca.202100023).
 
