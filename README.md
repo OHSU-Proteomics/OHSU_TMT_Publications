@@ -42,11 +42,13 @@ Some work from other laboratories and institutions using methods/techniques deve
 
 1. [Cheung, C.Y. and Brace, R.A., 2020. Altered proteomics profile in the amnion of patients with oligohydramnios. Physiological reports, 8(4), p.e14381.](https://physoc.onlinelibrary.wiley.com/doi/full/10.14814/phy2.14381)
 
+1. [Hernandez, F., Luther, S., Aryal, S., Weatherbee, B.A., Siddam, A.D., Reddy, A.P., Wilmarth, P., David, L., Gautier-Courteille, C., Paillard, L. and Lachke, S.A., 2020. Celf1 regulates the small heat shock protein Hspb8 in lens development. Investigative Ophthalmology & Visual Science, 61(7), pp.2870-2870.](https://iovs.arvojournals.org/article.aspx?articleid=2767773)
+
 1. [Özgün Babur, Alexander Melrose, Jennifer Cunliffe, John Klimek, Jiaqing Pang, Anna-Liisa Sepp, Jevgenia Zilberman-Rudenko, Samuel Tassi Yunga, Tony Zheng, Iván Parra-Izquierdo, Jessica Minnier, Owen McCarty, Emek Demir, Ashok Reddy, Phillip Wilmarth, Larry L David, Joseph E Aslan; Phosphoproteomic quantitation and causal analysis reveal pathways in GPVI/ITAM-mediated platelet activation programs. Blood blood.2020005496.](https://doi.org/10.1182/blood.2020005496)
 
 1. [Anand, S., Chatterjee, N. and Espinosa-Diez, C., 2020. A miR-494 dependent feedback loop regulates ER stress. BioRxiv.](https://www.biorxiv.org/content/10.1101/2020.05.12.088856v1.abstract)
 
-1. Leo Han, Daye Park, Ashok Reddy, Phillip A. Wilmarth, and Jeffrey T. Jensen, 2021. Comparing Endocervical Mucus Proteome of Humans and Rhesus Macaques. Proteomics Clinical Applications (accepted).
+1. [Han, L., Park, D., Reddy, A., Wilmarth, P.A. and Jensen, J.T., 2021. Comparing endocervical mucus proteome of humans and rhesus macaques. PROTEOMICS–Clinical Applications, p.2100023.](https://onlinelibrary.wiley.com/doi/abs/10.1002/prca.202100023).
 
 ---
 
