@@ -54,6 +54,12 @@ Some work from other laboratories and institutions using methods/techniques deve
 
 ## Other Institutions (reverse chronological):
 
+1. [Birk, M.S., Ahmed-Begrich, R., Tran, S., Elsholz, A.K., Frese, C.K. and Charpentier, E., 2021. Time-Resolved Proteome Analysis of Listeria monocytogenes during Infection Reveals the Role of the AAA+ Chaperone ClpC for Host Cell Adaptation. Msystems, 6(4), pp.e00215-21.](https://journals.asm.org/doi/full/10.1128/mSystems.00215-21)
+
+1. [Pandya, N.J., Wang, C., Costa, V., Lopatta, P., Meier, S., Zampeta, F.I., Punt, A.M., Mientjes, E., Grossen, P., Distler, T. and Tzouros, M., 2021. Secreted retrovirus-like GAG-domain-containing protein PEG10 is regulated by UBE3A and is involved in Angelman syndrome pathophysiology. Cell Reports Medicine, 2(8), p.100360.](https://www.sciencedirect.com/science/article/pii/S2666379121002093)
+
+1. [Li, S., Li, X., Yang, S., Pi, H., Li, Z., Yao, P., Zhang, Q., Wang, Q., Shen, P., Li, X. and Ji, J., 2021. Proteomic landscape of exosomes reveals the functional contributions of CD151 in triple-negative breast cancer. Molecular & Cellular Proteomics, 20.](https://www.mcponline.org/article/S1535-9476(21)00093-1/fulltext)
+
 1. [Min, C.W., Gupta, R., Truong, N.V., Bae, J.W., Ko, J.M., Lee, B.W. and Kim, S.T., 2020. A TMT-based quantitative proteomic analysis provides insights into the protein changes in the seeds of high-and low-protein content soybean cultivars. Journal of Plant Biotechnology, 47(3), pp.209-217.](https://www.koreascience.or.kr/article/JAKO202029757728386.page)
 
 1. [Cao, X., Lilla, S., Cao, Z., Pringle, M.A., Oka, O.B., Robinson, P.J., Szmaja, T., Van Lith, M., Zanivan, S. and Bulleid, N.J., 2020. The mammalian cytosolic thioredoxin reductase pathway acts via a membrane protein to reduce ER-localised proteins. Journal of cell science, 133(8).](https://journals.biologists.com/jcs/article/133/8/jcs241976/224937/The-mammalian-cytosolic-thioredoxin-reductase)
