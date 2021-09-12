@@ -44,7 +44,7 @@ Some work from other laboratories and institutions using methods/techniques deve
 
 1. [Hernandez, F., Luther, S., Aryal, S., Weatherbee, B.A., Siddam, A.D., Reddy, A.P., Wilmarth, P., David, L., Gautier-Courteille, C., Paillard, L. and Lachke, S.A., 2020. Celf1 regulates the small heat shock protein Hspb8 in lens development. Investigative Ophthalmology & Visual Science, 61(7), pp.2870-2870.](https://iovs.arvojournals.org/article.aspx?articleid=2767773)
 
-1. [Özgün Babur, Alexander Melrose, Jennifer Cunliffe, John Klimek, Jiaqing Pang, Anna-Liisa Sepp, Jevgenia Zilberman-Rudenko, Samuel Tassi Yunga, Tony Zheng, Iván Parra-Izquierdo, Jessica Minnier, Owen McCarty, Emek Demir, Ashok Reddy, Phillip Wilmarth, Larry L David, Joseph E Aslan; Phosphoproteomic quantitation and causal analysis reveal pathways in GPVI/ITAM-mediated platelet activation programs. Blood blood.2020005496.](https://doi.org/10.1182/blood.2020005496)
+1. [Özgün Babur, Alexander Melrose, Jennifer Cunliffe, John Klimek, Jiaqing Pang, Anna-Liisa Sepp, Jevgenia Zilberman-Rudenko, Samuel Tassi Yunga, Tony Zheng, Iván Parra-Izquierdo, Jessica Minnier, Owen McCarty, Emek Demir, Ashok Reddy, Phillip Wilmarth, Larry L David, Joseph E Aslan; 2020. Phosphoproteomic quantitation and causal analysis reveal pathways in GPVI/ITAM-mediated platelet activation programs. Blood, 136(20), pp.2346-2358.](https://doi.org/10.1182/blood.2020005496)
 
 1. [Chatterjee, N., Fraile-Bethencourt, E., Baris, A., Espinosa-Diez, C. and Anand, S., 2021. MicroRNA-494 regulates Endoplasmic Reticulum stress in endothelial cells. Frontiers in Cell and Developmental Biology, 9, p.1846.](https://www.frontiersin.org/articles/10.3389/fcell.2021.671461/full)
 
@@ -63,6 +63,8 @@ Some work from other laboratories and institutions using methods/techniques deve
 1. [Min, C.W., Gupta, R., Truong, N.V., Bae, J.W., Ko, J.M., Lee, B.W. and Kim, S.T., 2020. A TMT-based quantitative proteomic analysis provides insights into the protein changes in the seeds of high-and low-protein content soybean cultivars. Journal of Plant Biotechnology, 47(3), pp.209-217.](https://www.koreascience.or.kr/article/JAKO202029757728386.page)
 
 1. [Cao, X., Lilla, S., Cao, Z., Pringle, M.A., Oka, O.B., Robinson, P.J., Szmaja, T., Van Lith, M., Zanivan, S. and Bulleid, N.J., 2020. The mammalian cytosolic thioredoxin reductase pathway acts via a membrane protein to reduce ER-localised proteins. Journal of cell science, 133(8).](https://journals.biologists.com/jcs/article/133/8/jcs241976/224937/The-mammalian-cytosolic-thioredoxin-reductase)
+
+1. [Khan, M.J., Desaire, H., Lopez, O.L., Kamboh, M.I. and Robinson, R.A., 2021. Why Inclusion Matters for Alzheimer’s Disease Biomarker Discovery in Plasma. Journal of Alzheimer's Disease, 1 Jan. 2021:1327-1344.](https://content.iospress.com/articles/journal-of-alzheimers-disease/jad201318)
 
 1. [Khan, M.J., Desaire, H., Lopez, O.L., Kamboh, M.I. and Robinson, R.A., 2021. Dataset of why inclusion matters for Alzheimer's disease biomarker discovery in plasma. Data in brief, 35, p.106923.](https://www-sciencedirect-com.liboff.ohsu.edu/science/article/pii/S2352340921002079?via%3Dihub)
 
