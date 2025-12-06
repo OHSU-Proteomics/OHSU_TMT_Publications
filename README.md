@@ -48,7 +48,51 @@ Some work from other laboratories and institutions using methods/techniques deve
 
 1. [Chatterjee, N., Fraile-Bethencourt, E., Baris, A., Espinosa-Diez, C. and Anand, S., 2021. MicroRNA-494 regulates Endoplasmic Reticulum stress in endothelial cells. Frontiers in Cell and Developmental Biology, 9, p.1846.](https://www.frontiersin.org/articles/10.3389/fcell.2021.671461/full)
 
-1. [Han, L., Park, D., Reddy, A., Wilmarth, P.A. and Jensen, J.T., 2021. Comparing endocervical mucus proteome of humans and rhesus macaques. PROTEOMICS–Clinical Applications, p.2100023.](https://onlinelibrary.wiley.com/doi/abs/10.1002/prca.202100023).
+1. [Han, L., Park, D., Reddy, A., Wilmarth, P.A. and Jensen, J.T., 2021. Comparing endocervical mucus proteome of humans and rhesus macaques. PROTEOMICS–Clinical Applications, p.2100023.](https://onlinelibrary.wiley.com/doi/abs/10.1002/prca.202100023)
+
+1. [De Maria, A., Zientek, K.D., David, L.L., Wilmarth, P.A., Bhorade, A.M., Harocopos, G.J., Huang, A.J., Hong, A.R., Siegfried, C.J., Tsai, L.M. and Sheybani, A., 2021. Compositional analysis of extracellular aggregates in the eyes of patients with exfoliation syndrome and exfoliation glaucoma. Investigative Ophthalmology & Visual Science, 62(15), pp.27-27.](https://iovs.arvojournals.org/article.aspx?articleid=2778198)
+
+1. [Cooper, S., Wilmarth, P.A., Cunliffe, J.M., Klimek, J., Pang, J., Yunga, S.T., Minnier, J., Reddy, A., David, L. and Aslan, J.E., 2021. Platelet proteome dynamics in hibernating 13-lined ground squirrels. Physiological genomics.](https://journals.physiology.org/doi/full/10.1152/physiolgenomics.00078.2021)
+
+1. [Assis, R.D.A., Sagawa, C.H., Zaini, P.A., Saxe, H.J., Wilmarth, P.A., Phinney, B.S., Salemi, M., Moreira, L.M. and Dandekar, A.M., 2021. A secreted chorismate mutase from Xanthomonas arboricola pv. juglandis attenuates virulence and walnut blight symptoms. International journal of molecular sciences, 22(19), p.10374.](https://www.mdpi.com/1422-0067/22/19/10374)
+
+1. [Sagawa, C.H., Assis, R.D.A., Zaini, P.A., Saxe, H., Wilmarth, P.A., Salemi, M., Phinney, B.S. and Dandekar, A.M., 2022. De novo arginine synthesis is required for full virulence of Xanthomonas arboricola pv. juglandis during walnut bacterial blight disease. Phytopathology®, 112(7), pp.1500-1512.](https://apsjournals.apsnet.org/doi/10.1094/PHYTO-07-21-0302-R)
+
+1. [Yunga, S.T., Gower, A.J., Melrose, A.R., Fitzgerald, M.K., Rajendran, A., Lusardi, T.A., Armstrong, R.J., Minnier, J., Jordan, K.R., McCarty, O.J. and David, L.L., 2022. Effects of ex vivo blood anticoagulation and preanalytical processing time on the proteome content of platelets. Journal of Thrombosis and Haemostasis, 20(6), pp.1437-1450.](https://www.jthjournal.org/article/S1538-7836(22)00189-1/fulltext)
+
+1. [Park, D., Reddy, A.P., Wilmarth, P.A., Jensen, J.T. and Han, L., 2022. Mucus secretions from a conditionally reprogrammed primary endocervical cell culture. F&S Science, 3(2), pp.159-165.](https://www.fertstertscience.org/article/S2666-335X(22)00023-4/abstract)
+
+1. [Cao, Z., Minnier, J., Liu, L., Scott, K.L.L., Reddy, A.P., Wilmarth, P.A., David, L.L., Barnes, A.P., Grafe, M.R., Kaul, S. and Alkayed, N.J., 2022. Proteomic profiling of concurrently isolated primary microvascular endothelial cells, pericytes, and vascular smooth muscle cells from adult mouse heart. Scientific Reports, 12(1), p.8835.](https://www.nature.com/articles/s41598-022-12749-6)
+
+1. [Aljawad, M.F., Faisal, A.H.M.A., Alqanbar, M.F., Wilmarth, P.A. and Hassan, B.Q., 2023. Tandem mass tag‐based quantitative proteomic analysis of cervical cancer. PROTEOMICS–Clinical Applications, 17(1), p.2100105.](https://onlinelibrary.wiley.com/doi/10.1002/prca.202100105)
+
+1. [Jalilian, I., Muppala, S., Ali, M., Anderson, J.D., Phinney, B., Salemi, M., Wilmarth, P.A., Murphy, C.J., Thomasy, S.M. and Raghunathan, V., 2023. Cell derived matrices from bovine corneal endothelial cells as a model to study cellular dysfunction. Experimental eye research, 226, p.109303.](https://www.sciencedirect.com/science/article/pii/S0014483522003840)
+
+1. [Harkness, B.M., Hegarty, D.M., Saugstad, J.A., Behrens, H., Betz, J., David, L.L., Lapidus, J.A., Chen, S., Stutzman, R., Chamberlain, W. and Perez-Blanco, M., 2023. Experimental design considerations for studies of human tear proteins. The ocular surface, 28, pp.58-78.](https://www.sciencedirect.com/science/article/pii/S1542012423000198)
+
+1. [Palumbo, M.C., Gautam, M., Sonneborn, A., Kim, K., Wilmarth, P.A., Reddy, A.P., Shi, X., Marks, D.L., Sahay, G., Abbas, A.I. and Janowsky, A., 2023. MicroRNA137-loaded lipid nanoparticles regulate synaptic proteins in the prefrontal cortex. Molecular Therapy, 31(10), pp.2975-2990.](https://www.cell.com/molecular-therapy-family/molecular-therapy/pdfExtended/S1525-0016(23)00448-3)
+
+1. [Rivolta, A.A., Bujold, A.R., Wilmarth, P.A., Phinney, B.S., Navelski, J.P., Horohov, D.W. and Sanz, M.G., 2023. Comparison of the broncoalveolar lavage fluid proteomics between foals and adult horses. PloS one, 18(9), p.e0290778.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290778)
+
+1. [Mulholland, P.J., Berto, S., Wilmarth, P.A., McMahan, C., Ball, L.E. and Woodward, J.J., 2023. Adaptor protein complex 2 in the orbitofrontal cortex predicts alcohol use disorder. Molecular psychiatry, 28(11), pp.4766-4776.](https://www.nature.com/articles/s41380-023-02236-3)
+
+1. [Deleeuw, V., Carlson, E., Renard, M., Zientek, K.D., Wilmarth, P.A., Reddy, A.P., Manalo, E.C., Tufa, S.F., Keene, D.R., Olbinado, M. and Stampanoni, M., 2023. Unraveling the role of TGFβ signaling in thoracic aortic aneurysm and dissection using Fbn1 mutant mouse models. Matrix Biology, 123, pp.17-33.](https://www.sciencedirect.com/science/article/pii/S0945053X23000951)
+
+1. [Shorey-Kendrick, L.E., Crosland, B.A., Spindel, E.R., McEvoy, C.T., Wilmarth, P.A., Reddy, A.P., Zientek, K.D., Roberts, V.H., D’Mello, R.J., Ryan, K.S. and Olyaei, A.F., 2023. The amniotic fluid proteome changes across gestation in humans and rhesus macaques. Scientific Reports, 13(1), p.17039.](https://www.nature.com/articles/s41598-023-44125-3)
+
+1. [Portier, I., Manne, B.K., Kosaka, Y., Tolley, N.D., Denorme, F., Babur, Ö., Reddy, A.P., Wilmarth, P.A., Aslan, J.E., Weyrich, A.S. and Rondina, M.T., 2024. Aging-related alterations in mechanistic target of rapamycin signaling promote platelet hyperreactivity and thrombosis. Journal of Thrombosis and Haemostasis, 22(9), pp.2576-2588.](https://www.jthjournal.org/article/S1538-7836(24)00317-9/fulltext)
+
+1. [Harkness, B.M., Chen, S., Kim, K., Reddy, A.P., McFarland, T.J., Hegarty, D.M., Everist, S.J., Saugstad, J.A., Lapidus, J., Galor, A. and Aicher, S.A., 2024. Tear Proteins Altered in Patients with Persistent Eye Pain after Refractive Surgery: Biomarker Candidate Discovery. Journal of proteome research, 23(7), pp.2629-2640.](https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.4c00339)
+
+1. [Yang, C.J., Shorey-Kendrick, L.E., Puy, C., Benson, A.E., Wilmarth, P.A., Reddy, A.P., Zientek, K.D., Kim, K., Crosland, A., Clendinen, C.S. and Bramer, L.M., 2025. Characterization of the procoagulant phenotype of amniotic fluid across gestation in rhesus macaques and humans. Research and Practice in Thrombosis and Haemostasis, 9(1), p.102676.](https://pdf.sciencedirectassets.com/782963/1-s2.0-S2475037924X00114/1-s2.0-S2475037924003716/main.pdf)
+
+1. [Harkness, B.M., Chen, S., Reddy, A.P., Kim, K., Hegarty, D.M., Everist, S.J., Saugstad, J.A., Lapidus, J., Galor, A. and Aicher, S.A., 2025. Differences in pre-surgical baseline tear proteome are associated with persistent post-refractive surgery pain. The ocular surface.](https://www.sciencedirect.com/science/article/pii/S1542012425001016)
+
+1. [Finan, J.M., Guo, Y., Bartlett, A.Q., Hawthorne, K., Reyer, M., Haerr, M., Lamikanra, O., Halamish, H., Calvert, V., Chen, C. and Xia, Z., 2025. HuR-regulated extracellular vesicles promote endothelial cell remodeling in pancreatic cancer. Cancer Research Communications, 5(9), pp.1501-1515.](https://watermark02.silverchair.com/crc-25-0355.pdf)
+
+1. [Rayêe, D., Wilmarth, P.A., VanSlyke, J.K., Zientek, K., Reddy, A.P., Musil, L.S., David, L.L. and Cvekl, A., 2025. Analysis of mouse lens morphological and proteomic abnormalities following deletion of the βB3-crystallin promoter. Experimental Eye Research, p.110587.](https://www.sciencedirect.com/science/article/pii/S0014483525003586)
+
+1. [Collins, H.Y., Doan, R.A., Li, J., Early, J.E., Madden, M.E., Simkins, T., Lyons, D.A., Monk, K.R. and Emery, B., 2025. FBXW7 regulates MYRF levels to control myelin capacity and homeostasis in the adult central nervous system. Nature communications, 16(1), p.7822.](https://www.nature.com/articles/s41467-025-62715-9.pdf)
 
 ---
 
